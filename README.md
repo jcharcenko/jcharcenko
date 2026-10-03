@@ -15,13 +15,13 @@ My background is in security operations, incident response, threat assessment an
 
 ## Certifications
 
-- **ASIS Certified Protection Professional (CPP)**
-- **CompTIA Security Analytics Professional (CSAP)**
-  - CompTIA CySA+
-  - CompTIA Security+
-- **Google Cybersecurity Professional Certificate**
-- **Max Security Intelligence Manager**
-- **UCD Professional Academy Advanced Diploma in Artificial Intelligence**
+- **Certified Protection Professional (CPP)** - ASIS International
+- **Security Analytics Professional (CSAP)** - CompTIA
+  - CySA+
+  - Security+
+- **Cybersecurity Professional Certificate V2** - Google
+- **MAX Security Manager Intelligence Training** - MAX Security
+- **Advanced Artificial Intelligence** - UCD Professional Academy
 
 ## Featured Project
 
