@@ -31,7 +31,7 @@ A practical cybersecurity home lab built using VMware, Windows 11, Ubuntu Server
 
 The project includes endpoint telemetry collection, SIEM deployment, Windows event forwarding, SPL detection logic, scheduled alerting, controlled testing and DFIR tooling.
 
-[**View the Home SOC & DFIR Lab →**](https://github.com/jcharcenko/cybersecurity-home-lab)
+[**View the Home SOC & DFIR Lab**](https://github.com/jcharcenko/cybersecurity-home-lab)
 
 ## What I'm Building Next
 
