@@ -41,4 +41,4 @@ The investigation covers alert triage, event correlation, process and network an
 
 ## What I'm Building Next
 
-I'm continuing to develop the lab through practical detection-engineering and SOC investigation exercises, including controlled security testing, detection tuning and investigation workflows.
+I'm continuing to build practical projects across SOC investigation, detection engineering and threat intelligence. My next project will focus on producing a current cyber threat assessment using real-world intelligence, followed by further work exploring detection development and the convergence of cyber and physical security investigations.
