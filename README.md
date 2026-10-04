@@ -23,15 +23,21 @@ My background is in security operations, incident response, threat assessment an
 - **MAX Security Manager Intelligence Training** - MAX Security
 - **Advanced Artificial Intelligence** - UCD Professional Academy
 
-## Featured Project
+## Featured Projects
 
-### Home SOC & DFIR Lab
+### 1. Home SOC & DFIR Lab
 
-A practical cybersecurity home lab built using VMware, Windows 11, Ubuntu Server, Kali Linux, Sysmon and Splunk Enterprise.
+A practical SOC and DFIR environment built with VMware, Windows 11, Kali Linux, Sysmon and Splunk Enterprise for security monitoring, detection and investigation.
 
-The project includes endpoint telemetry collection, SIEM deployment, Windows event forwarding, SPL detection logic, scheduled alerting, controlled testing and DFIR tooling.
+[View the project →](https://github.com/jcharcenko/cybersecurity-home-lab)
 
-[**View the Home SOC & DFIR Lab**](https://github.com/jcharcenko/cybersecurity-home-lab)
+### 2. Windows SOC Investigation
+
+A hands-on SOC investigation using Splunk, Sysmon and Windows Security telemetry to detect, investigate and respond to simulated suspicious PowerShell activity.
+
+The investigation covers alert triage, event correlation, process and network analysis, incident timeline reconstruction, MITRE ATT&CK mapping, remediation and detection improvement.
+
+[View the project →](https://github.com/jcharcenko/windows-soc-investigation)
 
 ## What I'm Building Next
 
