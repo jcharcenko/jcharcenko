@@ -42,3 +42,7 @@ The investigation covers alert triage, event correlation, process and network an
 ## What I'm Building Next
 
 I'm continuing to build practical projects across SOC investigation, detection engineering and threat intelligence. My next project will focus on producing a current cyber threat assessment using real-world intelligence, followed by further work exploring detection development and the convergence of cyber and physical security investigations.
+
+## Approach and Tools
+
+These projects combine my security operations experience with practical lab work in cybersecurity. I use AI tools to support learning, troubleshooting and documentation, and to generate commands and scripts used in the lab. Each project documents the investigation process, findings and lessons learned.
