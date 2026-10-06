@@ -29,7 +29,7 @@ My background is in security operations, incident response, threat assessment an
 
 A practical SOC and DFIR environment built with VMware, Windows 11, Kali Linux, Sysmon and Splunk Enterprise for security monitoring, detection and investigation.
 
-[View the project →](https://github.com/jcharcenko/cybersecurity-home-lab)
+[View the project](https://github.com/jcharcenko/cybersecurity-home-lab)
 
 ### 2. Windows SOC Investigation
 
@@ -37,7 +37,7 @@ A hands-on SOC investigation using Splunk, Sysmon and Windows Security telemetry
 
 The investigation covers alert triage, event correlation, process and network analysis, incident timeline reconstruction, MITRE ATT&CK mapping, remediation and detection improvement.
 
-[View the project →](https://github.com/jcharcenko/windows-soc-investigation)
+[View the project](https://github.com/jcharcenko/windows-soc-investigation)
 
 ### 3. Windows Digital Forensics Investigation
 
@@ -45,7 +45,7 @@ A hands-on Windows digital forensics investigation using KAPE, Eric Zimmerman to
 
 The investigation covers evidence acquisition and preservation, Windows filesystem and Registry artifacts, deleted-file activity, volatile memory analysis, forensic timeline reconstruction and cross-validation of findings across multiple evidence sources.
 
-[View the project →](https://github.com/jcharcenko/windows-digital-forensics-investigation)
+[View the project](https://github.com/jcharcenko/windows-digital-forensics-investigation)
 
 ## What I'm Building Next
 
@@ -55,4 +55,4 @@ My next project will focus on producing a structured cyber threat intelligence a
 
 ## Approach and Tools
 
-These projects combine my security operations experience with practical lab work in cybersecurity. I use AI tools to support learning, troubleshooting and documentation, and to generate commands and scripts used in the lab. Each project documents the investigation process, findings and lessons learned.
+These projects combine my security operations experience with practical lab work in cybersecurity. I use AI tools to support learning, troubleshooting, research and documentation, including assistance with commands and scripts used in the lab. I validate outputs through hands-on testing and analysis, and each project documents the investigation process, findings and lessons learned.
