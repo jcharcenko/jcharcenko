@@ -39,9 +39,19 @@ The investigation covers alert triage, event correlation, process and network an
 
 [View the project →](https://github.com/jcharcenko/windows-soc-investigation)
 
+### 3. Windows Digital Forensics Investigation
+
+A hands-on Windows digital forensics investigation using KAPE, Eric Zimmerman tools, Volatility 3 and Autopsy to reconstruct and correlate endpoint activity following a controlled suspicious PowerShell scenario.
+
+The investigation covers evidence acquisition and preservation, Windows filesystem and Registry artifacts, deleted-file activity, volatile memory analysis, forensic timeline reconstruction and cross-validation of findings across multiple evidence sources.
+
+[View the project →](https://github.com/jcharcenko/windows-digital-forensics-investigation)
+
 ## What I'm Building Next
 
-I'm continuing to build practical projects across SOC investigation, detection engineering and threat intelligence. My next project will focus on producing a current cyber threat assessment using real-world intelligence, followed by further work exploring detection development and the convergence of cyber and physical security investigations.
+I'm now expanding the portfolio into cyber threat intelligence and OSINT, building on the SOC and digital forensics foundation established in the first three projects.
+
+My next project will focus on producing a structured cyber threat intelligence assessment using real-world open-source information, followed by further work in cybercrime intelligence and converged cyber and physical security investigations.
 
 ## Approach and Tools
 
